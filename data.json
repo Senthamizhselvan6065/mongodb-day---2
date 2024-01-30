@@ -85,7 +85,7 @@
             {
                 "date": "2020-10-24",
                 "topic": "Mongodb"
-            },
+            }
         ],
         "task": [
             {
@@ -127,7 +127,7 @@
             {
                 "date": "2020-10-24",
                 "task": "not completed"
-            },
+            }
         ],
         "company_drives": [
             {
@@ -169,7 +169,7 @@
                 "date": "2020-10-29",
                 "name": "flipkart",
                 "result": "selected"
-            },
+            }
         ],
         "mentors": [
             {
@@ -191,7 +191,7 @@
                 "name": "Vinith",
                 "date": "2020-10-25",
                 "attendance": "A"
-            },
+            }
         ]
     },
     {
@@ -280,7 +280,7 @@
             {
                 "date": "2020-10-30",
                 "topic": "Mongodb"
-            },
+            }
         ],
         "task": [
             {
@@ -322,7 +322,7 @@
             {
                 "date": "2020-10-30",
                 "task": "not completed"
-            },
+            }
         ],
         "company_drives": [
             {
@@ -364,7 +364,7 @@
                 "date": "2020-10-29",
                 "name": "flipkart",
                 "result": "selected"
-            },
+            }
         ],
         "mentors": [
             {
@@ -386,7 +386,7 @@
                 "name": "Vinith",
                 "date": "2020-10-25",
                 "attendance": "A"
-            },
+            }
         ]
     },
     {
@@ -475,7 +475,7 @@
             {
                 "date": "2020-10-24",
                 "topic": "Mongodb"
-            },
+            }
         ],
         "task": [
             {
@@ -517,7 +517,7 @@
             {
                 "date": "2020-10-24",
                 "task": "not completed"
-            },
+            }
         ],
         "company_drives": [
             {
@@ -559,7 +559,7 @@
                 "date": "2020-10-29",
                 "name": "flipkart",
                 "result": "selected"
-            },
+            }
         ],
         "mentors": [
             {
@@ -581,7 +581,7 @@
                 "name": "Vinith",
                 "date": "2020-10-25",
                 "attendance": "A"
-            },
+            }
         ]
     },
     {
@@ -670,7 +670,7 @@
             {
                 "date": "2020-10-24",
                 "topic": "Mongodb"
-            },
+            }
         ],
         "task": [
             {
@@ -712,7 +712,7 @@
             {
                 "date": "2020-10-24",
                 "task": "not completed"
-            },
+            }
         ],
         "company_drives": [
             {
@@ -754,7 +754,7 @@
                 "date": "2020-10-29",
                 "name": "flipkart",
                 "result": "selected"
-            },
+            }
         ],
         "mentors": [
             {
@@ -776,7 +776,7 @@
                 "name": "Vinith",
                 "date": "2020-10-25",
                 "attendance": "A"
-            },
+            }
         ]
     }
 ]
